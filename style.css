@@ -39,7 +39,7 @@ a {
 }
 
 .main-header h1 span {
-	color: #f7610b;
+	color: #f70b79;
 }
 
 .main-header p {
@@ -54,7 +54,7 @@ img {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	grid-gap: 2rem;
-	background: #f1f1f1;
+	background: #cdd6d6;
 	margin-bottom: 2rem;
 }
 
@@ -76,7 +76,7 @@ img {
 
 .btn {
 	display: inline-block;
-	background: #000;
+	background: #353535;
 	color: #fff;
 	padding: 0.8rem 1.8rem;
 	margin-top: 2rem;
